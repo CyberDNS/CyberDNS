@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m David 👋
 
-<!--
-**CyberDNS/CyberDNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Architect | Developer | Maker**  
+Echternacherbrück, Germany
 
-Here are some ideas to get you started:
+I’m a software architect and developer, specializing in **C#** and **.NET**, with a focus on creating scalable and efficient solutions. My work often involves **automation**, **IoT**, and **cloud technologies**, where I explore the latest advancements in **C#** and **.NET**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlighted Projects
+
+- **Lupusec2Mqtt**: Enables the Lupusec XT2 alarm system to communicate with MQTT brokers, enhancing its compatibility with Home Assistant and other smart home platforms. It supports various functionalities, including alarm panel control, sensor states, and power switch operations.
+  
+- **ai-document-classifier**: A document classifier leveraging the **OpenAI API** to categorize documents efficiently. This project reflects my expertise in **AI** and **machine learning**.
+
+- **bungy_robot**: A robotics project focused on automation and advanced robotics technologies.
+
+In my spare time, I’m an avid **nature photographer**, **hiker**, and **traveler**. I also enjoy working with **electronics**, **3D printing**, and experimenting with new tech. When I'm not coding or hiking, I'm probably cooking up something new or tinkering with my next maker project.
+
+---
+
+💼 **Current Interests**: Software Architecture, IoT, Cloud Solutions  
+🎸 **Hobbies**: Guitar, Hiking, Photography, 3D Printing
