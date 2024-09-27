@@ -9,9 +9,9 @@ I’m a software architect and developer, specializing in **C#** and **.NET**, w
 
 - **Lupusec2Mqtt**: Enables the Lupusec XT2 alarm system to communicate with MQTT brokers, enhancing its compatibility with Home Assistant and other smart home platforms. It supports various functionalities, including alarm panel control, sensor states, and power switch operations.
   
-- **ai-document-classifier**: A document classifier leveraging the **OpenAI API** to categorize documents efficiently. This project reflects my expertise in **AI** and **machine learning**.
+- **ai-document-classifier**: A document classifier leveraging the **OpenAI API** to categorize documents efficiently.
 
-- **bungy_robot**: A robotics project focused on automation and advanced robotics technologies.
+- **bungy_robot**: A robotics project focused on automation and robotics technologies (ROS2).
 
 In my spare time, I’m an avid **nature photographer**, **hiker**, and **traveler**. I also enjoy working with **electronics**, **3D printing**, and experimenting with new tech. When I'm not coding or hiking, I'm probably cooking up something new or tinkering with my next maker project.
 
