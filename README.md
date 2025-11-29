@@ -8,6 +8,8 @@ I’m a software architect and developer, specializing in **C#** and **.NET**, w
 ## Highlighted Projects
 
 - **Lupusec2Mqtt**: Enables the Lupusec XT2 alarm system to communicate with MQTT brokers, enhancing its compatibility with Home Assistant and other smart home platforms. It supports various functionalities, including alarm panel control, sensor states, and power switch operations.
+
+- **Curio****: RSS Reader that uses AI to create a personalized newspaper
   
 - **bungy_robot**: A robotics project focused on automation and robotics technologies (ROS2).
 
@@ -16,4 +18,4 @@ In my spare time, I’m an avid **nature photographer**, **hiker**, and **travel
 ---
 
 💼 **Current Interests**: Software Architecture, IoT, Cloud Solutions  
-🎸 **Hobbies**: Guitar, Hiking, Photography, 3D Printing
+🎸 **Hobbies**: Guitar, Hiking, Biking, Photography, 3D Printing
